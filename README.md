@@ -1,6 +1,6 @@
 # Tools and other info for my MK14 Emulator
 
-Based on [dadecoza/Ardu14](https://github.com/dadecoza/Ardu14).
+Based on [dadecoza/Ardu14](https://github.com/dadecoza/Ardu14) - currently requires [my fork](https://github.com/stuartm2/Ardu14).
 
 The Gerber board and 3D-printed back cover are available in this repository.
 
